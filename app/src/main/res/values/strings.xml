@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MusicBoxApp</string>
+    <string name="song_name">Blue World</string>
+    <string name="artist_name">Mac Miller</string>
+</resources>
